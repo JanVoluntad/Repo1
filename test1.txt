@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is C6D2-26D0
+
+ Directory of C:\Users\jhanelle\Desktop\SampleProject
+
+07/25/2018  07:47 PM    <DIR>          .
+07/25/2018  07:47 PM    <DIR>          ..
+07/25/2018  07:47 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  138,065,862,656 bytes free
